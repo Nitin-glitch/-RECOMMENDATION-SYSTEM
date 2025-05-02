@@ -90,3 +90,4 @@ The model demonstrated how machine learning can personalize user experiences at 
 This task deepened my practical understanding of recommender systems and prepared me for more advanced topics like content-based filtering, hybrid systems, and deep learning approaches to personalization.
 
 #OUTPUT
+![Image](https://github.com/user-attachments/assets/0fa7835e-cc88-4561-9ea4-e1c277262d6b)
